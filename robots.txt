@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ai.soeasyhub.com/sitemap.xml
+
